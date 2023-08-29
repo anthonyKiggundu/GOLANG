@@ -2,6 +2,9 @@
 
 metrobeats is a beat based on metricbeat which was generated with metricbeat/metricset generator.
 
+## Background
+These adjustments to the code were motivated by a request for extensions to the metribeats module as raised in the following post
+```https://github.com/elastic/beats/issues/3608#issuecomment-563918720```
 
 ## Getting started
 
